@@ -1,2 +1,3 @@
-# Weather App Javascript
+### Rottay - Weather App Javascript
+
 ![](./docs/screenshot.png)
