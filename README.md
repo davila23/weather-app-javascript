@@ -10,7 +10,6 @@ npm install
 ```
 
 # Start the project
-This projects have two environments Development and production. To start in development mode run:
 ```
 npm run dev
 ```
